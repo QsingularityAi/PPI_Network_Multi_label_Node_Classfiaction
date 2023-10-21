@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anuragtrivedi/Documents/Protein_protein_intreaction_Network/mlruns/0/12bead691408433fa034e85bb3f6f565/artifacts
+end_time: 1697896658343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12bead691408433fa034e85bb3f6f565
+run_name: polite-trout-77
+run_uuid: 12bead691408433fa034e85bb3f6f565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697896629696
+status: 3
+tags: []
+user_id: anuragtrivedi
