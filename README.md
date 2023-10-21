@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
 <img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
 </p>
-<img src="https://img.shields.io/github/license/QsingularityAi/PPI_Network_Multi_label_Node_Classfiaction.git?style&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/QsingularityAi/PPI_Network_Multi_label_Node_Classfiaction.git?style&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/QsingularityAi/PPI_Network_Multi_label_Node_Classfiaction.git?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/QsingularityAi/PPI_Network_Multi_label_Node_Classfiaction.git?style&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
@@ -28,8 +24,6 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running PPI_Network_Multi_label_Node_Classfiaction.git](#-running-PPI_Network_Multi_label_Node_Classfiaction.git)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
