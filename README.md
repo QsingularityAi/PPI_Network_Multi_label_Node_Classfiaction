@@ -153,7 +153,7 @@ This project is licensed under the `ℹ️  LICENSE-TYPE` License. See the [LICE
 
 ## 👏 Acknowledgments
 
-`- ℹ️ Thank individuals or organizations that helped you in creating this project. This could also be a place to list related projects or other resources that inspired your work.`
+`- ℹ️ This project build by Anurag Trivedi and code rebuild based on analysis give on node2vec paper examplea case study .`
 
 [↑ Return](#Top)
 
